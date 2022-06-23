@@ -1,0 +1,491 @@
+.dashBoardOptInViewRoot {
+  border-width: 0.18px;
+  border-color: rgba(0, 0, 0, 0.9);
+  border-style: solid;
+  height: 880.4px;
+  background-color: #ffffff;
+  display: flex;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: auto;
+  min-width: 1718px;
+  align-items: flex-end;
+  padding: 0.8px 46px 0.8px 0px;
+}
+.flexRow {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin: 0px 0px 7.88px 0px;
+}
+.flexColumn {
+  width: 975px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  flex-grow: 1;
+  align-items: flex-start;
+  margin: 0px 485.32px 0px 0px;
+}
+.element23 {
+  align-self: stretch;
+  height: 114.2px;
+  position: relative;
+  min-width: 975px;
+}
+.whiteRectangle {
+  width: 975px;
+  height: 79.3px;
+  background-color: #ffffff;
+  position: absolute;
+}
+.image1 {
+  width: 240px;
+  height: 88px;
+  position: absolute;
+  top: 26.2px;
+  left: 62px;
+}
+.text1 {
+  font-size: 28.05px;
+  font-family: DM Sans;
+  font-weight: 500;
+  letter-spacing: 2.24px;
+  margin: 0px 0px 0px 55px;
+}
+.element24 {
+  width: 199.68px;
+  height: 261.41px;
+  position: relative;
+  flex-grow: 1;
+  margin: 0px 16px 0px 0px;
+}
+.janeDoe {
+  text-align: center;
+  font-size: 18.82px;
+  font-family: DM Sans;
+  font-weight: 500;
+  line-height: 26.34pxpx;
+  position: absolute;
+  top: 114.63px;
+  left: 111.68px;
+  white-space: pre-wrap;
+}
+.text2 {
+  font-size: 12.21px;
+  font-family: DM Sans;
+  font-weight: 500;
+  line-height: 14.01pxpx;
+  color: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  top: 142.66px;
+  left: 114.68px;
+}
+.image2 {
+  width: 132.58px;
+  height: 132.24px;
+  position: absolute;
+  top: 93.06px;
+}
+.image3 {
+  width: 2.57px;
+  height: 15.84px;
+  align-self: center;
+}
+.text3 {
+  font-size: 20.81px;
+  font-family: DM Sans;
+  font-weight: 400;
+  letter-spacing: 1.04px;
+  line-height: 17.97pxpx;
+  color: rgba(0, 120, 191, 0.59);
+  align-self: flex-start;
+  margin: 0px 0px 15.66px 59px;
+}
+.flexRow1 {
+  align-self: stretch;
+  height: 109.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  padding: 0px 38px 0px 55px;
+  margin: 0px 0px 21.84px 0px;
+}
+.whiteFlexColumn {
+  border-width: 0.8px;
+  border-color: rgba(0, 0, 0, 0.5);
+  border-style: solid;
+  height: 100.18px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  border-radius: 6.23px;
+  padding: 2.41px 4.15px 2.41px 8px;
+  margin: 0px 40px 0px 0px;
+}
+.flexRow3 {
+  height: 21.68px;
+  display: flex;
+  flex-direction: row;
+  gap: 83.3px;
+  align-items: flex-start;
+  padding: 0px 1.75px 0px 2px;
+}
+.text5 {
+  width: 81.7px;
+  height: 18.4px;
+  display: flex;
+  font-size: 24.92px;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 12.46pxpx;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.line {
+  width: 4.87px;
+  height: 4.67px;
+  align-self: flex-start;
+  margin: 3px 0px 0px 0px;
+}
+.whiteFlexColumn1 {
+  border-width: 0.8px;
+  border-color: rgba(0, 0, 0, 0.5);
+  border-style: solid;
+  height: 100.16px;
+  background-color: #ffffff;
+  display: flex;
+  align-self: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  border-radius: 6.23px;
+  padding: 2.42px 4.15px 2.42px 8px;
+  margin: 0px 1020px 0px 0px;
+}
+.flexRow5 {
+  height: 19.28px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 34px;
+  align-items: flex-start;
+  padding: 0px 1px;
+}
+.text6 {
+  width: 132px;
+  height: 18.6px;
+  display: flex;
+  font-size: 19.96px;
+  font-family: Inter;
+  font-weight: 600;
+  line-height: 9.98pxpx;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.line1 {
+  width: 4.87px;
+  height: 4.67px;
+  align-self: flex-start;
+  margin: 3.01px 0px 0px 0px;
+}
+.buttons {
+  display: flex;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 0px 30.61px 0px;
+  padding: 0px;
+  border-width: 0px;
+  background: none;
+  box-sizing: content-box;
+  cursor: pointer;
+  &: hover {
+    opacity: 70%;
+  }
+}
+.baseButton {
+  background-color: #64cf82;
+  display: flex;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 3.91px;
+  padding: 5.86px 9.77px;
+}
+.label {
+  display: flex;
+  font-size: 13.67px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 19.54pxpx;
+  color: #ffffff;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0px 5.86px;
+}
+.flexRow6 {
+  align-self: stretch;
+  height: 36.11px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-end;
+  padding: 0px 75px;
+  margin: 0px 0px 28.01px 0px;
+}
+.text7 {
+  font-size: 11.22px;
+  font-family: DM Sans;
+  font-weight: 700;
+  color: #005a1b;
+  align-self: center;
+  margin: 0px 28px 0px 0px;
+}
+.whiteFlexColumn2 {
+  width: 67.3px;
+  height: 32.1px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0px 22.7px 0px 0px;
+}
+.text8 {
+  width: 80.9px;
+  height: 13.6px;
+  font-size: 9.85px;
+  font-family: DM Sans;
+  font-weight: 700;
+  color: #606266;
+  position: absolute;
+  top: 10.42px;
+  left: 8px;
+}
+.arrowrightblackdp4 {
+  width: 19.23px;
+  height: 19.23px;
+  position: absolute;
+  top: 7.21px;
+  left: 69.77px;
+}
+.text9 {
+  width: 32.9px;
+  height: 13.6px;
+  font-size: 9.85px;
+  font-family: DM Sans;
+  font-weight: 700;
+  color: #606266;
+  position: absolute;
+  top: 11.22px;
+  left: 28px;
+}
+.text10 {
+  width: 31.3px;
+  height: 13.6px;
+  font-size: 9.85px;
+  font-family: DM Sans;
+  font-weight: 700;
+  color: #606266;
+  position: absolute;
+  top: 11.22px;
+  left: 24px;
+}
+.element25 {
+  width: 123px;
+  height: 36.1px;
+  align-self: flex-start;
+  position: relative;
+  margin: 0px 153px 0px 0px;
+}
+.fernFlexRow {
+  height: 17.6px;
+  background-color: rgba(100, 207, 130, 0.59);
+  display: flex;
+  position: absolute;
+  top: 11.22px;
+  left: 346px;
+  flex-direction: row;
+  align-items: center;
+  border-radius: 6.29px;
+  padding: 4.01px 37.1px 3.19px 29px;
+}
+.text11 {
+  width: 48.9px;
+  height: 17.6px;
+  font-size: 12.88px;
+  font-family: DM Sans;
+  font-weight: 700;
+  color: rgba(0, 0, 0, 0.95);
+}
+.arrowrightblackdp {
+  width: 25.15px;
+  height: 25.15px;
+  position: absolute;
+  top: 11.03px;
+  left: 404.85px;
+}
+.text12 {
+  font-size: 14.52px;
+  font-family: DM Sans;
+  font-weight: 700;
+  margin: 0px 0px 1.88px 0px;
+}
+.flexRow7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0px 22px;
+  margin: 0px 0px 12.05px 0px;
+}
+.silverFlexRow {
+  width: 1635px;
+  height: 9.62px;
+  background-color: rgba(196, 196, 196, 0.22);
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  border-radius: 8.01px;
+  padding: 19.23px 12px 19.25px 12px;
+  margin: 0px 0px 12.81px 0px;
+}
+.silverFlexRow1 {
+  width: 1631px;
+  height: 9.62px;
+  background-color: rgba(196, 196, 196, 0.22);
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  border-radius: 8.01px;
+  padding: 19.23px 14px 19.25px 14px;
+  margin: 0px 0px 13.61px 0px;
+}
+.silverFlexRow2 {
+  width: 1629px;
+  height: 9.62px;
+  background-color: rgba(196, 196, 196, 0.22);
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  border-radius: 8.01px;
+  padding: 19.23px 15px 19.25px 15px;
+  margin: 0px 3px 12.01px 0px;
+}
+.silverFlexRow3 {
+  width: 1627px;
+  height: 9.62px;
+  background-color: rgba(196, 196, 196, 0.22);
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  border-radius: 8.01px;
+  padding: 17.63px 16px 20.85px 16px;
+  margin: 0px 3px 14.41px 0px;
+}
+.element31 {
+  width: 1298px;
+  height: 46.5px;
+  align-self: flex-start;
+  position: relative;
+  margin: 0px 0px 34.45px 54px;
+}
+.silverFlexRow4 {
+  width: 1625px;
+  height: 9.62px;
+  background-color: rgba(196, 196, 196, 0.22);
+  display: flex;
+  position: absolute;
+  top: -1.6px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  border-radius: 8.01px;
+  padding: 19.23px 17px 19.25px 17px;
+}
+.flexColumn4 {
+  display: flex;
+  flex-direction: column;
+  gap: 44.88px;
+  justify-content: flex-start;
+  align-items: center;
+  position: absolute;
+  top: -229.21px;
+  left: 1472px;
+  padding: 0px 8.01px;
+}
+.flexColumn6 {
+  display: flex;
+  flex-direction: column;
+  gap: 44.88px;
+  justify-content: flex-start;
+  align-items: center;
+  position: absolute;
+  top: -227.61px;
+  left: 1160px;
+  padding: 0px 44.88px;
+}
+.flexColumn7 {
+  display: flex;
+  flex-direction: column;
+  gap: 45.68px;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: -230.82px;
+  left: 1331px;
+  padding: 0px 19.23px;
+}
+.flexColumn10 {
+  display: flex;
+  flex-direction: column;
+  gap: 44.88px;
+  justify-content: flex-start;
+  align-items: center;
+  position: absolute;
+  top: -227.61px;
+  left: 298px;
+  padding: 0px 7.21px;
+}
+.flexColumn11 {
+  width: 67px;
+  height: 260px;
+  display: flex;
+  position: absolute;
+  top: -229.21px;
+  left: 456px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0px 0.3px 0px 0px;
+}
+.loadMore {
+  display: flex;
+  font-size: 11.3px;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 16.14pxpx;
+  color: rgba(54, 47, 47, 0.9);
+  align-self: center;
+  width: 81.7px;
+  height: 17px;
+  background-color: rgba(189, 189, 189, 0.55);
+  flex-direction: row;
+  justify-content: center;
+  border-radius: 12.57px;
+  padding: 1.99px 0px 2.31px 0px;
+  white-space: pre-wrap;
+}
